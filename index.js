@@ -101,5 +101,6 @@ function getDateInformation() {
     year,
   };
 }
+// you can add your home town here to initially having your hometown locations weather info
 
 weather.fetchWeather("Kolkata");
